@@ -5,24 +5,46 @@
       "comments": [
         {
           "employee": "Hector Marmolejos",
-          "state": "Aprobado",
+          "state": "Autorizado",
           "comment": "Un comentario",
-          "date": "Publicado el 23 de diciembre del 2019 a las 8:45 PM"
+          "date": "01/16/2020 @ 3:10pm"
+        },
+        {
+          "employee": "Luis Aparicio",
+          "state": "Denegado",
+          "comment": "Un comentario",
+          "date": "01/14/2020 @ 2:30pm"
         }
       ],
+      
       "history": [
         {
           "result": {
-            "actualState": "",
-            "futureState": "",
-            "authorized": ""
+            "actualState": "Pre-Aprobado",
+            "futureState": "Aprobado",
+            "authorized": false
           },
           "comments": [
             {
               "employee": "Hector Marmolejos",
               "state": "Aprobado",
               "comment": "Un comentario",
-              "date": "Publicado el 23 de diciembre del 2019 a las 8:45 PM"
+              "date": "01/16/2020 @ 3:10pm"
+            }
+          ]
+        },
+        {
+          "result": {
+            "actualState": "Rechazado",
+            "futureState": "Pendiente Recibir Documentación",
+            "authorized": true
+          },
+          "comments": [
+            {
+              "employee": "Maikol Camilo",
+              "state": "Aprobado",
+              "comment": "Un comentario",
+              "date": "01/16/2020 @ 3:10pm"
             }
           ]
         }
