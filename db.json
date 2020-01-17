@@ -1,0 +1,30 @@
+[
+  {
+     "authorizers":"3",
+     "comments":[
+        {
+           "employee":"Hector Marmolejos",
+           "state":"Aprobado",
+           "comment":"Un comentario",
+           "date":"Publicado el 23 de diciembre del 2019 a las 8:45 PM"
+        }
+     ],
+     "history":[
+        {
+           "result":{
+              "actualState":"",
+              "futureState":"",
+              "authorized":""
+           },
+           "comments":[
+              {
+                 "employee":"Hector Marmolejos",
+                 "state":"Aprobado",
+                 "comment":"Un comentario",
+                 "date":"Publicado el 23 de diciembre del 2019 a las 8:45 PM"
+              }
+           ]
+        }
+     ]
+  }
+]";"
