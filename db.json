@@ -38,6 +38,7 @@
                ]
             },
             {
+               "id":"vote-4",
                "result":{
                   "id":"vote-3",
                   "actualState":"Rechazado",
