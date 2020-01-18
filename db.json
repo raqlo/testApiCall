@@ -16,7 +16,7 @@
                "employee":"Luis Aparicio",
                "state":"Denegado",
                "comment":"Un comentario",
-               "date":"01/14/2020 @ 2:30pm"
+               "date":"1579361306"
             }
          ],
          "history":[
@@ -33,7 +33,7 @@
                      "employee":"Hector Marmolejos",
                      "state":"Aprobado",
                      "comment":"Un comentario",
-                     "date":"01/16/2020 @ 3:10pm"
+                     "date":"1579361306"
                   }
                ]
             },
@@ -51,7 +51,7 @@
                      "employee":"Maikol Camilo",
                      "state":"Aprobado",
                      "comment":"Un comentario",
-                     "date":"01/16/2020 @ 3:10pm"
+                     "date":"1579361306"
                   }
                ]
             }
