@@ -1,5 +1,5 @@
 {
-   "timeline":[
+   "timeline":
       {
          "id":"vote-3",
          "authorizers":"3",
@@ -57,5 +57,4 @@
             }
          ]
       }
-   ]
 }
